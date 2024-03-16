@@ -1,3 +1,5 @@
+USER_FILE = "user.txt"
+TASKS_FILE = "tasks.txt"
 import os
 from datetime import datetime, date
 
